@@ -1,0 +1,7 @@
+{
+  "name": "ionicCart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
